@@ -11,7 +11,7 @@ I'm a data analyst at the National Center for Ecological Analysis and Synthesis 
 *Pigeon eating an ice cream cone, downtown San Francisco*
 
 ### 📝 Experience
-- 2022 - Present: Data Analyst for LTER working groups
+- 2022 - 2024: Data Analyst for LTER working groups
 - 2019 - 2022: Data Curator for NCEAS Arctic Data Center
 
 ### 📖 Education
